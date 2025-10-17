@@ -9,9 +9,7 @@
 
 ### Pull Request Process
 1. Alla PRs ska gå mot `dev`, aldrig direkt till `main`
-2. Minst 1 review krävs innan merge
-3. PR-titlar ska vara beskrivande: "Implementerar [komponent]"
-4. Ta bort feature-branch efter merge
+2. Ta bort feature-branch efter merge
 
 ## Faktisk Git Log Visualisering
 
@@ -26,6 +24,6 @@
 ```
 
 ## Implementerade Features
-- ✅ Responsiv navbar med navigation
-- ✅ Hero-sektion med CTA-knapp  
-- ✅ Footer med social links
+- ✅ navbar 
+- ✅ Hero-sektion
+- ✅ Footer 
